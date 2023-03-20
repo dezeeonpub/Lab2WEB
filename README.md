@@ -25,12 +25,41 @@ Credit: [dezeeonpub](https://github.com/dezeeonpub)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
 
 + Buat file baru dengan nama index.php dan tampil.php, file index.php digunakan sebagai tampilan utama ketika program dijalankan.
 + Kode program index.php :
 
-_*10
+
+
+
+
+=================================================================================================================================
+
 </head>
 <body>
 	<h2>Form Input</h2>
@@ -77,4 +106,4 @@ _*10
 </body>
 </html>
 
-_*10
+================================================================================================================================
