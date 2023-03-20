@@ -58,7 +58,7 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 
 
-=================================================================================================================================
+
 
 </head>
 <body>
@@ -106,4 +106,4 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 </body>
 </html>
 
-================================================================================================================================
+<img src="ressult.PNG" alt="Alt text" title="ressult">
